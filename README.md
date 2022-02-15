@@ -20,8 +20,22 @@ prerequisites completed.<br />
 
 ### Output:
 
-<b> Electives.py
+<b> Electives.py </b>
 
-<b> electives_Advisory_Fact.txt
+![Run](https://user-images.githubusercontent.com/43794593/154130342-0b384432-e3a5-43c8-a361-2e13dd47f85a.png)
 
-<b> Electives.pl
+<br/>
+
+<b> electives_Advisory_Fact.txt </b>
+
+![Output4](https://user-images.githubusercontent.com/43794593/154130385-eda985b7-e21e-43fb-b58a-42c93090f106.png)
+
+<br/>
+
+<b> Electives.pl </b>
+
+![Output1](https://user-images.githubusercontent.com/43794593/154130520-57c37a17-d002-4477-b0b0-4bc9526cac6a.png)
+
+![Output3](https://user-images.githubusercontent.com/43794593/154130538-c1967512-d058-486c-9497-65b175bd5f9e.png)
+
+<br/>
