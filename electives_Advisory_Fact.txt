@@ -1,0 +1,12 @@
+namedata(shreya).
+cgpa(9.1).
+result(research,research_on).
+result(aptitude,yes).
+result(communication,no).
+result(branch,cse).
+result(specialisation, de).
+result(career,swd).
+prereq(dsa,yes).
+prereq(dbms,no).
+prereq(os,yes).
+prereq(cn,yes).
